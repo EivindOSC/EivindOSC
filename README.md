@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @EivindOSC
+- 👀 I’m interested in Ansible & programing
+- 🌱 I’m currently learning Python & some more Ansible
+- 💞️ I’m collaborating with people in the company OSC AS
+- 📫 Reach me through my mail eivind@osc.no
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: About 1/4 of my year is spent while listening to music
